@@ -1,0 +1,79 @@
+#!/usr/bin/perl
+# Only for APOL
+
+if ($#ARGV != 1) {
+	print "Usage: ./migratesm_mail.pl <virtualuser file> <spool directory>\n";
+	print "Remember add a backslash \"\/\" at the end.\n";
+	print "eg: ./migratesm_mail.pl /etc/mail/virtualuser /var/spool/\n\n";
+	exit;
+}
+
+my %users = ();
+my ($ref, $path) = @ARGV;
+
+if (!-d $path) {
+	print "[ERROR] $path doesn't exist!\n";
+	exit;
+}
+
+if (substr($path, length($path) - 1, 1) ne "\/") {
+	print "[ERROR] missing \"\/\" at the end!\n";
+	exit;
+}
+
+open(REF, "<$ref");
+while(<REF>) {
+	chomp;
+	($user, $file) = split(/\t/);
+	$users{$file} = $user;
+}
+close(REF);
+
+foreach $file (keys %users) {
+	$user = $users{$file};
+	$userpath = `/webmail/tools/userhome $user`;
+	$mailpath = $userpath . "/@";
+
+	if (!-f "$userpath/.passwd") {
+		print "[ERROR] $user doesn't exist in mail!\n";
+		next;
+	}
+
+	$ID = 0;
+	$First = 1;
+	$lastline = "";
+
+	open(IN, "<$path$file");
+	while($line = <IN>) {
+		$From = 0;
+
+		if ($First == 1) {
+			$fname = "$mailpath/$ID";
+			open(OU, ">$fname");
+			$ID++;
+			$First = 0;
+			$From = 1;
+		}
+
+		if (($line =~ /^From /) && ($lastline eq "\n")) {
+			close(OU);
+			$fname = "$mailpath/$ID";
+			open(OU, ">$fname");
+			$ID++;
+			$From = 1;
+		}
+
+		print OU "$line" if ($From == 0);
+
+		$lastline = $line;
+	}
+
+	close(IN);
+	close(OU);
+
+	$fname = "$mailpath/.DIR";
+	unlink($fname) if (-f $fname);
+
+	system("/webmail/tools/builddir -m $mailpath");
+	print "[SUCCESS] $user\n";
+}

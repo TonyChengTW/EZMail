@@ -1,0 +1,2136 @@
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin nobility@nobility.com.tw
+    DocumentRoot /webmail/httpd/data/nobility_com_tw/
+    ServerName webmail.nobility.com.tw
+    ErrorLog logs/nobility.com.tw-err_log
+    CustomLog logs/nobility.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin taling@taling.com.tw
+    DocumentRoot /webmail/httpd/data/taling_com_tw/
+    ServerName webmail.taling.com.tw
+    ErrorLog logs/taling.com.tw-err_log
+    CustomLog logs/taling.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jpcool@jpcool.com
+    DocumentRoot /webmail/httpd/data/jpcool_com/
+    ServerName webmail.jpcool.com
+    ErrorLog logs/jpcool.com-err_log
+    CustomLog logs/jpcool.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bontech@bontech.com.tw
+    DocumentRoot /webmail/httpd/data/bontech_com_tw/
+    ServerName webmail.bontech.com.tw
+    ErrorLog logs/bontech.com.tw-err_log
+    CustomLog logs/bontech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mail@mail.anco.com.tw
+    DocumentRoot /webmail/httpd/data/mail_anco_com_tw/
+    ServerName webmail.mail.anco.com.tw
+    ErrorLog logs/mail.anco.com.tw-err_log
+    CustomLog logs/mail.anco.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin imtec@imtec.com.tw
+    DocumentRoot /webmail/httpd/data/imtec_com_tw/
+    ServerName webmail.imtec.com.tw
+    ErrorLog logs/imtec.com.tw-err_log
+    CustomLog logs/imtec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin apexcorp@apexcorp.com.tw
+    DocumentRoot /webmail/httpd/data/apexcorp_com_tw/
+    ServerName webmail.apexcorp.com.tw
+    ErrorLog logs/apexcorp.com.tw-err_log
+    CustomLog logs/apexcorp.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin angleton@angleton.com.tw
+    DocumentRoot /webmail/httpd/data/angleton_com_tw/
+    ServerName webmail.angleton.com.tw
+    ErrorLog logs/angleton.com.tw-err_log
+    CustomLog logs/angleton.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin eastek@eastek.com.tw
+    DocumentRoot /webmail/httpd/data/eastek_com_tw/
+    ServerName webmail.eastek.com.tw
+    ErrorLog logs/eastek.com.tw-err_log
+    CustomLog logs/eastek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin unicomes@unicomes.com.tw
+    DocumentRoot /webmail/httpd/data/unicomes_com_tw/
+    ServerName webmail.unicomes.com.tw
+    ErrorLog logs/unicomes.com.tw-err_log
+    CustomLog logs/unicomes.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fijittro@fijittro.org.tw
+    DocumentRoot /webmail/httpd/data/fijittro_org_tw/
+    ServerName webmail.fijittro.org.tw
+    ErrorLog logs/fijittro.org.tw-err_log
+    CustomLog logs/fijittro.org.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin naycherng@naycherng.com.tw
+    DocumentRoot /webmail/httpd/data/naycherng_com_tw/
+    ServerName webmail.naycherng.com.tw
+    ErrorLog logs/naycherng.com.tw-err_log
+    CustomLog logs/naycherng.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bodywave@bodywave.com.tw
+    DocumentRoot /webmail/httpd/data/bodywave_com_tw/
+    ServerName webmail.bodywave.com.tw
+    ErrorLog logs/bodywave.com.tw-err_log
+    CustomLog logs/bodywave.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin maistek@maistek.com.tw
+    DocumentRoot /webmail/httpd/data/maistek_com_tw/
+    ServerName webmail.maistek.com.tw
+    ErrorLog logs/maistek.com.tw-err_log
+    CustomLog logs/maistek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin edg@edg.com.tw
+    DocumentRoot /webmail/httpd/data/edg_com_tw/
+    ServerName webmail.edg.com.tw
+    ErrorLog logs/edg.com.tw-err_log
+    CustomLog logs/edg.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin gfktwn@gfktwn.com.tw
+    DocumentRoot /webmail/httpd/data/gfktwn_com_tw/
+    ServerName webmail.gfktwn.com.tw
+    ErrorLog logs/gfktwn.com.tw-err_log
+    CustomLog logs/gfktwn.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin enrichmusic@enrichmusic.com.tw
+    DocumentRoot /webmail/httpd/data/enrichmusic_com_tw/
+    ServerName webmail.enrichmusic.com.tw
+    ErrorLog logs/enrichmusic.com.tw-err_log
+    CustomLog logs/enrichmusic.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sinwa@sinwa.com.tw
+    DocumentRoot /webmail/httpd/data/sinwa_com_tw/
+    ServerName webmail.sinwa.com.tw
+    ErrorLog logs/sinwa.com.tw-err_log
+    CustomLog logs/sinwa.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin 5a@5a.com.tw
+    DocumentRoot /webmail/httpd/data/5a_com_tw/
+    ServerName webmail.5a.com.tw
+    ErrorLog logs/5a.com.tw-err_log
+    CustomLog logs/5a.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin yuisheng@yuisheng.com.tw
+    DocumentRoot /webmail/httpd/data/yuisheng_com_tw/
+    ServerName webmail.yuisheng.com.tw
+    ErrorLog logs/yuisheng.com.tw-err_log
+    CustomLog logs/yuisheng.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin anco@anco.com.tw
+    DocumentRoot /webmail/httpd/data/anco_com_tw/
+    ServerName webmail.anco.com.tw
+    ErrorLog logs/anco.com.tw-err_log
+    CustomLog logs/anco.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin exartech@exartech.com.tw
+    DocumentRoot /webmail/httpd/data/exartech_com_tw/
+    ServerName webmail.exartech.com.tw
+    ErrorLog logs/exartech.com.tw-err_log
+    CustomLog logs/exartech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin burnstewart@burnstewart.com.tw
+    DocumentRoot /webmail/httpd/data/burnstewart_com_tw/
+    ServerName webmail.burnstewart.com.tw
+    ErrorLog logs/burnstewart.com.tw-err_log
+    CustomLog logs/burnstewart.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin tw-tpi@tw-tpi.com.tw
+    DocumentRoot /webmail/httpd/data/tw-tpi_com_tw/
+    ServerName webmail.tw-tpi.com.tw
+    ErrorLog logs/tw-tpi.com.tw-err_log
+    CustomLog logs/tw-tpi.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin pact@pact.com.tw
+    DocumentRoot /webmail/httpd/data/pact_com_tw/
+    ServerName webmail.pact.com.tw
+    ErrorLog logs/pact.com.tw-err_log
+    CustomLog logs/pact.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin prime@prime.com.tw
+    DocumentRoot /webmail/httpd/data/prime_com_tw/
+    ServerName webmail.prime.com.tw
+    ErrorLog logs/prime.com.tw-err_log
+    CustomLog logs/prime.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin scopewell@scopewell.com.tw
+    DocumentRoot /webmail/httpd/data/scopewell_com_tw/
+    ServerName webmail.scopewell.com.tw
+    ErrorLog logs/scopewell.com.tw-err_log
+    CustomLog logs/scopewell.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin magnet@magnet.com.tw
+    DocumentRoot /webmail/httpd/data/magnet_com_tw/
+    ServerName webmail.magnet.com.tw
+    ErrorLog logs/magnet.com.tw-err_log
+    CustomLog logs/magnet.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cherting@cherting.com.tw
+    DocumentRoot /webmail/httpd/data/cherting_com_tw/
+    ServerName webmail.cherting.com.tw
+    ErrorLog logs/cherting.com.tw-err_log
+    CustomLog logs/cherting.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin goldenco@goldenco.com.tw
+    DocumentRoot /webmail/httpd/data/goldenco_com_tw/
+    ServerName webmail.goldenco.com.tw
+    ErrorLog logs/goldenco.com.tw-err_log
+    CustomLog logs/goldenco.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin infotec@infotec.com.tw
+    DocumentRoot /webmail/httpd/data/infotec_com_tw/
+    ServerName webmail.infotec.com.tw
+    ErrorLog logs/infotec.com.tw-err_log
+    CustomLog logs/infotec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sableinc@sableinc.com.tw
+    DocumentRoot /webmail/httpd/data/sableinc_com_tw/
+    ServerName webmail.sableinc.com.tw
+    ErrorLog logs/sableinc.com.tw-err_log
+    CustomLog logs/sableinc.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin citycase@citycase.com.tw
+    DocumentRoot /webmail/httpd/data/citycase_com_tw/
+    ServerName webmail.citycase.com.tw
+    ErrorLog logs/citycase.com.tw-err_log
+    CustomLog logs/citycase.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin foodnews@foodnews.com.tw
+    DocumentRoot /webmail/httpd/data/foodnews_com_tw/
+    ServerName webmail.foodnews.com.tw
+    ErrorLog logs/foodnews.com.tw-err_log
+    CustomLog logs/foodnews.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin skysis@skysis.com.tw
+    DocumentRoot /webmail/httpd/data/skysis_com_tw/
+    ServerName webmail.skysis.com.tw
+    ErrorLog logs/skysis.com.tw-err_log
+    CustomLog logs/skysis.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin teppro@teppro.com.tw
+    DocumentRoot /webmail/httpd/data/teppro_com_tw/
+    ServerName webmail.teppro.com.tw
+    ErrorLog logs/teppro.com.tw-err_log
+    CustomLog logs/teppro.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin pro-technology@pro-technology.com.tw
+    DocumentRoot /webmail/httpd/data/pro-technology_com_tw/
+    ServerName webmail.pro-technology.com.tw
+    ErrorLog logs/pro-technology.com.tw-err_log
+    CustomLog logs/pro-technology.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin penmotors@penmotors.com.tw
+    DocumentRoot /webmail/httpd/data/penmotors_com_tw/
+    ServerName webmail.penmotors.com.tw
+    ErrorLog logs/penmotors.com.tw-err_log
+    CustomLog logs/penmotors.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sentravel@sentravel.com.tw
+    DocumentRoot /webmail/httpd/data/sentravel_com_tw/
+    ServerName webmail.sentravel.com.tw
+    ErrorLog logs/sentravel.com.tw-err_log
+    CustomLog logs/sentravel.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin clia@clia.com.tw
+    DocumentRoot /webmail/httpd/data/clia_com_tw/
+    ServerName webmail.clia.com.tw
+    ErrorLog logs/clia.com.tw-err_log
+    CustomLog logs/clia.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mail@mail.howard.com.tw
+    DocumentRoot /webmail/httpd/data/mail_howard_com_tw/
+    ServerName webmail.mail.howard.com.tw
+    ErrorLog logs/mail.howard.com.tw-err_log
+    CustomLog logs/mail.howard.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin gianteec@gianteec.com.tw
+    DocumentRoot /webmail/httpd/data/gianteec_com_tw/
+    ServerName webmail.gianteec.com.tw
+    ErrorLog logs/gianteec.com.tw-err_log
+    CustomLog logs/gianteec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin vos@vos.org.tw
+    DocumentRoot /webmail/httpd/data/vos_org_tw/
+    ServerName webmail.vos.org.tw
+    ErrorLog logs/vos.org.tw-err_log
+    CustomLog logs/vos.org.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bridgeone@bridgeone.net
+    DocumentRoot /webmail/httpd/data/bridgeone_net/
+    ServerName webmail.bridgeone.net
+    ErrorLog logs/bridgeone.net-err_log
+    CustomLog logs/bridgeone.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin toplulu@toplulu.net
+    DocumentRoot /webmail/httpd/data/toplulu_net/
+    ServerName webmail.toplulu.net
+    ErrorLog logs/toplulu.net-err_log
+    CustomLog logs/toplulu.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fins@fins.com.tw
+    DocumentRoot /webmail/httpd/data/fins_com_tw/
+    ServerName webmail.fins.com.tw
+    ErrorLog logs/fins.com.tw-err_log
+    CustomLog logs/fins.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ethome@ethome.net
+    DocumentRoot /webmail/httpd/data/ethome_net/
+    ServerName webmail.ethome.net
+    ErrorLog logs/ethome.net-err_log
+    CustomLog logs/ethome.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin surtecpm@surtecpm.com.tw
+    DocumentRoot /webmail/httpd/data/surtecpm_com_tw/
+    ServerName webmail.surtecpm.com.tw
+    ErrorLog logs/surtecpm.com.tw-err_log
+    CustomLog logs/surtecpm.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin rcsacorp@rcsacorp.com.tw
+    DocumentRoot /webmail/httpd/data/rcsacorp_com_tw/
+    ServerName webmail.rcsacorp.com.tw
+    ErrorLog logs/rcsacorp.com.tw-err_log
+    CustomLog logs/rcsacorp.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fabiatech@fabiatech.com
+    DocumentRoot /webmail/httpd/data/fabiatech_com/
+    ServerName webmail.fabiatech.com
+    ErrorLog logs/fabiatech.com-err_log
+    CustomLog logs/fabiatech.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin photocake@photocake.com.tw
+    DocumentRoot /webmail/httpd/data/photocake_com_tw/
+    ServerName webmail.photocake.com.tw
+    ErrorLog logs/photocake.com.tw-err_log
+    CustomLog logs/photocake.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin asiagen@asiagen.com.tw
+    DocumentRoot /webmail/httpd/data/asiagen_com_tw/
+    ServerName webmail.asiagen.com.tw
+    ErrorLog logs/asiagen.com.tw-err_log
+    CustomLog logs/asiagen.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mail@mail.mediatea.com
+    DocumentRoot /webmail/httpd/data/mail_mediatea_com/
+    ServerName webmail.mail.mediatea.com
+    ErrorLog logs/mail.mediatea.com-err_log
+    CustomLog logs/mail.mediatea.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin continental-link@continental-link.com.tw
+    DocumentRoot /webmail/httpd/data/continental-link_com_tw/
+    ServerName webmail.continental-link.com.tw
+    ErrorLog logs/continental-link.com.tw-err_log
+    CustomLog logs/continental-link.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin taiwan-leader@taiwan-leader.com
+    DocumentRoot /webmail/httpd/data/taiwan-leader_com/
+    ServerName webmail.taiwan-leader.com
+    ErrorLog logs/taiwan-leader.com-err_log
+    CustomLog logs/taiwan-leader.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin yotek@yotek.com.tw
+    DocumentRoot /webmail/httpd/data/yotek_com_tw/
+    ServerName webmail.yotek.com.tw
+    ErrorLog logs/yotek.com.tw-err_log
+    CustomLog logs/yotek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin borica@borica.com.tw
+    DocumentRoot /webmail/httpd/data/borica_com_tw/
+    ServerName webmail.borica.com.tw
+    ErrorLog logs/borica.com.tw-err_log
+    CustomLog logs/borica.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cmax@cmax.com.tw
+    DocumentRoot /webmail/httpd/data/cmax_com_tw/
+    ServerName webmail.cmax.com.tw
+    ErrorLog logs/cmax.com.tw-err_log
+    CustomLog logs/cmax.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin nistem@nistem.com.tw
+    DocumentRoot /webmail/httpd/data/nistem_com_tw/
+    ServerName webmail.nistem.com.tw
+    ErrorLog logs/nistem.com.tw-err_log
+    CustomLog logs/nistem.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin xiertek@xiertek.com.tw
+    DocumentRoot /webmail/httpd/data/xiertek_com_tw/
+    ServerName webmail.xiertek.com.tw
+    ErrorLog logs/xiertek.com.tw-err_log
+    CustomLog logs/xiertek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lawtw@lawtw.net
+    DocumentRoot /webmail/httpd/data/lawtw_net/
+    ServerName webmail.lawtw.net
+    ErrorLog logs/lawtw.net-err_log
+    CustomLog logs/lawtw.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin smoothtour@smoothtour.com.tw
+    DocumentRoot /webmail/httpd/data/smoothtour_com_tw/
+    ServerName webmail.smoothtour.com.tw
+    ErrorLog logs/smoothtour.com.tw-err_log
+    CustomLog logs/smoothtour.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin webwatch@webwatch.com.tw
+    DocumentRoot /webmail/httpd/data/webwatch_com_tw/
+    ServerName webmail.webwatch.com.tw
+    ErrorLog logs/webwatch.com.tw-err_log
+    CustomLog logs/webwatch.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin comweal@comweal.com.tw
+    DocumentRoot /webmail/httpd/data/comweal_com_tw/
+    ServerName webmail.comweal.com.tw
+    ErrorLog logs/comweal.com.tw-err_log
+    CustomLog logs/comweal.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin accesspro@accesspro.com.tw
+    DocumentRoot /webmail/httpd/data/accesspro_com_tw/
+    ServerName webmail.accesspro.com.tw
+    ErrorLog logs/accesspro.com.tw-err_log
+    CustomLog logs/accesspro.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cleantec@cleantec.com.tw
+    DocumentRoot /webmail/httpd/data/cleantec_com_tw/
+    ServerName webmail.cleantec.com.tw
+    ErrorLog logs/cleantec.com.tw-err_log
+    CustomLog logs/cleantec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cypac@cypac.com.tw
+    DocumentRoot /webmail/httpd/data/cypac_com_tw/
+    ServerName webmail.cypac.com.tw
+    ErrorLog logs/cypac.com.tw-err_log
+    CustomLog logs/cypac.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin liu-law@liu-law.com.tw
+    DocumentRoot /webmail/httpd/data/liu-law_com_tw/
+    ServerName webmail.liu-law.com.tw
+    ErrorLog logs/liu-law.com.tw-err_log
+    CustomLog logs/liu-law.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin femar-am@femar-am.com
+    DocumentRoot /webmail/httpd/data/femar-am_com/
+    ServerName webmail.femar-am.com
+    ErrorLog logs/femar-am.com-err_log
+    CustomLog logs/femar-am.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin solidlite@solidlite.com
+    DocumentRoot /webmail/httpd/data/solidlite_com/
+    ServerName webmail.solidlite.com
+    ErrorLog logs/solidlite.com-err_log
+    CustomLog logs/solidlite.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hsinyu@hsinyu.com.tw
+    DocumentRoot /webmail/httpd/data/hsinyu_com_tw/
+    ServerName webmail.hsinyu.com.tw
+    ErrorLog logs/hsinyu.com.tw-err_log
+    CustomLog logs/hsinyu.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin iptec@iptec.com.tw
+    DocumentRoot /webmail/httpd/data/iptec_com_tw/
+    ServerName webmail.iptec.com.tw
+    ErrorLog logs/iptec.com.tw-err_log
+    CustomLog logs/iptec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mail@mail.joupo.com
+    DocumentRoot /webmail/httpd/data/mail_joupo_com/
+    ServerName webmail.mail.joupo.com
+    ErrorLog logs/mail.joupo.com-err_log
+    CustomLog logs/mail.joupo.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin aped@aped.com.tw
+    DocumentRoot /webmail/httpd/data/aped_com_tw/
+    ServerName webmail.aped.com.tw
+    ErrorLog logs/aped.com.tw-err_log
+    CustomLog logs/aped.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin highpull@highpull.com.tw
+    DocumentRoot /webmail/httpd/data/highpull_com_tw/
+    ServerName webmail.highpull.com.tw
+    ErrorLog logs/highpull.com.tw-err_log
+    CustomLog logs/highpull.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin regis-tech@regis-tech.com
+    DocumentRoot /webmail/httpd/data/regis-tech_com/
+    ServerName webmail.regis-tech.com
+    ErrorLog logs/regis-tech.com-err_log
+    CustomLog logs/regis-tech.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin majestic-pets@majestic-pets.com
+    DocumentRoot /webmail/httpd/data/majestic-pets_com/
+    ServerName webmail.majestic-pets.com
+    ErrorLog logs/majestic-pets.com-err_log
+    CustomLog logs/majestic-pets.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hs-tech@hs-tech.com.tw
+    DocumentRoot /webmail/httpd/data/hs-tech_com_tw/
+    ServerName webmail.hs-tech.com.tw
+    ErrorLog logs/hs-tech.com.tw-err_log
+    CustomLog logs/hs-tech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin caitian@caitian.com.tw
+    DocumentRoot /webmail/httpd/data/caitian_com_tw/
+    ServerName webmail.caitian.com.tw
+    ErrorLog logs/caitian.com.tw-err_log
+    CustomLog logs/caitian.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bella-hope@bella-hope.com.tw
+    DocumentRoot /webmail/httpd/data/bella-hope_com_tw/
+    ServerName webmail.bella-hope.com.tw
+    ErrorLog logs/bella-hope.com.tw-err_log
+    CustomLog logs/bella-hope.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin astrodyne@astrodyne.com.tw
+    DocumentRoot /webmail/httpd/data/astrodyne_com_tw/
+    ServerName webmail.astrodyne.com.tw
+    ErrorLog logs/astrodyne.com.tw-err_log
+    CustomLog logs/astrodyne.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sencun@sencun.com.tw
+    DocumentRoot /webmail/httpd/data/sencun_com_tw/
+    ServerName webmail.sencun.com.tw
+    ErrorLog logs/sencun.com.tw-err_log
+    CustomLog logs/sencun.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hontek-tw@hontek-tw.com.tw
+    DocumentRoot /webmail/httpd/data/hontek-tw_com_tw/
+    ServerName webmail.hontek-tw.com.tw
+    ErrorLog logs/hontek-tw.com.tw-err_log
+    CustomLog logs/hontek-tw.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fortex@fortex.com.tw
+    DocumentRoot /webmail/httpd/data/fortex_com_tw/
+    ServerName webmail.fortex.com.tw
+    ErrorLog logs/fortex.com.tw-err_log
+    CustomLog logs/fortex.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bossernet@bossernet.com
+    DocumentRoot /webmail/httpd/data/bossernet_com/
+    ServerName webmail.bossernet.com
+    ErrorLog logs/bossernet.com-err_log
+    CustomLog logs/bossernet.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin vaxcel@vaxcel.com.tw
+    DocumentRoot /webmail/httpd/data/vaxcel_com_tw/
+    ServerName webmail.vaxcel.com.tw
+    ErrorLog logs/vaxcel.com.tw-err_log
+    CustomLog logs/vaxcel.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sevenstar@sevenstar.com.tw
+    DocumentRoot /webmail/httpd/data/sevenstar_com_tw/
+    ServerName webmail.sevenstar.com.tw
+    ErrorLog logs/sevenstar.com.tw-err_log
+    CustomLog logs/sevenstar.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin heliopolis@heliopolis.com.tw
+    DocumentRoot /webmail/httpd/data/heliopolis_com_tw/
+    ServerName webmail.heliopolis.com.tw
+    ErrorLog logs/heliopolis.com.tw-err_log
+    CustomLog logs/heliopolis.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin inkcom@inkcom.com.tw
+    DocumentRoot /webmail/httpd/data/inkcom_com_tw/
+    ServerName webmail.inkcom.com.tw
+    ErrorLog logs/inkcom.com.tw-err_log
+    CustomLog logs/inkcom.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sowan@sowan.com.tw
+    DocumentRoot /webmail/httpd/data/sowan_com_tw/
+    ServerName webmail.sowan.com.tw
+    ErrorLog logs/sowan.com.tw-err_log
+    CustomLog logs/sowan.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin inktec@inktec.com.tw
+    DocumentRoot /webmail/httpd/data/inktec_com_tw/
+    ServerName webmail.inktec.com.tw
+    ErrorLog logs/inktec.com.tw-err_log
+    CustomLog logs/inktec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin zeninc@zeninc.com.tw
+    DocumentRoot /webmail/httpd/data/zeninc_com_tw/
+    ServerName webmail.zeninc.com.tw
+    ErrorLog logs/zeninc.com.tw-err_log
+    CustomLog logs/zeninc.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin taipeicapital@taipeicapital.com.tw
+    DocumentRoot /webmail/httpd/data/taipeicapital_com_tw/
+    ServerName webmail.taipeicapital.com.tw
+    ErrorLog logs/taipeicapital.com.tw-err_log
+    CustomLog logs/taipeicapital.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin click-animation@click-animation.com
+    DocumentRoot /webmail/httpd/data/click-animation_com/
+    ServerName webmail.click-animation.com
+    ErrorLog logs/click-animation.com-err_log
+    CustomLog logs/click-animation.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin workmen@workmen.com.tw
+    DocumentRoot /webmail/httpd/data/workmen_com_tw/
+    ServerName webmail.workmen.com.tw
+    ErrorLog logs/workmen.com.tw-err_log
+    CustomLog logs/workmen.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ai-kang@ai-kang.com.tw
+    DocumentRoot /webmail/httpd/data/ai-kang_com_tw/
+    ServerName webmail.ai-kang.com.tw
+    ErrorLog logs/ai-kang.com.tw-err_log
+    CustomLog logs/ai-kang.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin e-castle@e-castle.cc
+    DocumentRoot /webmail/httpd/data/e-castle_cc/
+    ServerName webmail.e-castle.cc
+    ErrorLog logs/e-castle.cc-err_log
+    CustomLog logs/e-castle.cc-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin stanley-tpe@stanley-tpe.com.tw
+    DocumentRoot /webmail/httpd/data/stanley-tpe_com_tw/
+    ServerName webmail.stanley-tpe.com.tw
+    ErrorLog logs/stanley-tpe.com.tw-err_log
+    CustomLog logs/stanley-tpe.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin pnm@pnm.com.tw
+    DocumentRoot /webmail/httpd/data/pnm_com_tw/
+    ServerName webmail.pnm.com.tw
+    ErrorLog logs/pnm.com.tw-err_log
+    CustomLog logs/pnm.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin konlin@konlin.com.tw
+    DocumentRoot /webmail/httpd/data/konlin_com_tw/
+    ServerName webmail.konlin.com.tw
+    ErrorLog logs/konlin.com.tw-err_log
+    CustomLog logs/konlin.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin starview@starview.com.tw
+    DocumentRoot /webmail/httpd/data/starview_com_tw/
+    ServerName webmail.starview.com.tw
+    ErrorLog logs/starview.com.tw-err_log
+    CustomLog logs/starview.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin acgf@acgf.org.tw
+    DocumentRoot /webmail/httpd/data/acgf_org_tw/
+    ServerName webmail.acgf.org.tw
+    ErrorLog logs/acgf.org.tw-err_log
+    CustomLog logs/acgf.org.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bigdoor@bigdoor.cc
+    DocumentRoot /webmail/httpd/data/bigdoor_cc/
+    ServerName webmail.bigdoor.cc
+    ErrorLog logs/bigdoor.cc-err_log
+    CustomLog logs/bigdoor.cc-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin heli-ocean@heli-ocean.com.tw
+    DocumentRoot /webmail/httpd/data/heli-ocean_com_tw/
+    ServerName webmail.heli-ocean.com.tw
+    ErrorLog logs/heli-ocean.com.tw-err_log
+    CustomLog logs/heli-ocean.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin evitak@evitak.cc
+    DocumentRoot /webmail/httpd/data/evitak_cc/
+    ServerName webmail.evitak.cc
+    ErrorLog logs/evitak.cc-err_log
+    CustomLog logs/evitak.cc-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin romax@romax.com.tw
+    DocumentRoot /webmail/httpd/data/romax_com_tw/
+    ServerName webmail.romax.com.tw
+    ErrorLog logs/romax.com.tw-err_log
+    CustomLog logs/romax.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sembatw@sembatw.com.tw
+    DocumentRoot /webmail/httpd/data/sembatw_com_tw/
+    ServerName webmail.sembatw.com.tw
+    ErrorLog logs/sembatw.com.tw-err_log
+    CustomLog logs/sembatw.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin x-fragrance@x-fragrance.com.tw
+    DocumentRoot /webmail/httpd/data/x-fragrance_com_tw/
+    ServerName webmail.x-fragrance.com.tw
+    ErrorLog logs/x-fragrance.com.tw-err_log
+    CustomLog logs/x-fragrance.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin powerfarm@powerfarm.com.tw
+    DocumentRoot /webmail/httpd/data/powerfarm_com_tw/
+    ServerName webmail.powerfarm.com.tw
+    ErrorLog logs/powerfarm.com.tw-err_log
+    CustomLog logs/powerfarm.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mittour@mittour.com.tw
+    DocumentRoot /webmail/httpd/data/mittour_com_tw/
+    ServerName webmail.mittour.com.tw
+    ErrorLog logs/mittour.com.tw-err_log
+    CustomLog logs/mittour.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin schmid-taiwan@schmid-taiwan.com
+    DocumentRoot /webmail/httpd/data/schmid-taiwan_com/
+    ServerName webmail.schmid-taiwan.com
+    ErrorLog logs/schmid-taiwan.com-err_log
+    CustomLog logs/schmid-taiwan.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin famouship@famouship.com.tw
+    DocumentRoot /webmail/httpd/data/famouship_com_tw/
+    ServerName webmail.famouship.com.tw
+    ErrorLog logs/famouship.com.tw-err_log
+    CustomLog logs/famouship.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin breita@breita.com.tw
+    DocumentRoot /webmail/httpd/data/breita_com_tw/
+    ServerName webmail.breita.com.tw
+    ErrorLog logs/breita.com.tw-err_log
+    CustomLog logs/breita.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ruody@ruody.com.tw
+    DocumentRoot /webmail/httpd/data/ruody_com_tw/
+    ServerName webmail.ruody.com.tw
+    ErrorLog logs/ruody.com.tw-err_log
+    CustomLog logs/ruody.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin er-opto@er-opto.com
+    DocumentRoot /webmail/httpd/data/er-opto_com/
+    ServerName webmail.er-opto.com
+    ErrorLog logs/er-opto.com-err_log
+    CustomLog logs/er-opto.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin pencoal@pencoal.com.tw
+    DocumentRoot /webmail/httpd/data/pencoal_com_tw/
+    ServerName webmail.pencoal.com.tw
+    ErrorLog logs/pencoal.com.tw-err_log
+    CustomLog logs/pencoal.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin law100@law100.com.tw
+    DocumentRoot /webmail/httpd/data/law100_com_tw/
+    ServerName webmail.law100.com.tw
+    ErrorLog logs/law100.com.tw-err_log
+    CustomLog logs/law100.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin easternfashions@easternfashions.com.tw
+    DocumentRoot /webmail/httpd/data/easternfashions_com_tw/
+    ServerName webmail.easternfashions.com.tw
+    ErrorLog logs/easternfashions.com.tw-err_log
+    CustomLog logs/easternfashions.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bridging@bridging.com.tw
+    DocumentRoot /webmail/httpd/data/bridging_com_tw/
+    ServerName webmail.bridging.com.tw
+    ErrorLog logs/bridging.com.tw-err_log
+    CustomLog logs/bridging.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ocarol@ocarol.com.tw
+    DocumentRoot /webmail/httpd/data/ocarol_com_tw/
+    ServerName webmail.ocarol.com.tw
+    ErrorLog logs/ocarol.com.tw-err_log
+    CustomLog logs/ocarol.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hilltop@hilltop.com.tw
+    DocumentRoot /webmail/httpd/data/hilltop_com_tw/
+    ServerName webmail.hilltop.com.tw
+    ErrorLog logs/hilltop.com.tw-err_log
+    CustomLog logs/hilltop.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ctcba@ctcba.org.tw
+    DocumentRoot /webmail/httpd/data/ctcba_org_tw/
+    ServerName webmail.ctcba.org.tw
+    ErrorLog logs/ctcba.org.tw-err_log
+    CustomLog logs/ctcba.org.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin micro-view@micro-view.com.tw
+    DocumentRoot /webmail/httpd/data/micro-view_com_tw/
+    ServerName webmail.micro-view.com.tw
+    ErrorLog logs/micro-view.com.tw-err_log
+    CustomLog logs/micro-view.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin whitehorse@whitehorse.com.tw
+    DocumentRoot /webmail/httpd/data/whitehorse_com_tw/
+    ServerName webmail.whitehorse.com.tw
+    ErrorLog logs/whitehorse.com.tw-err_log
+    CustomLog logs/whitehorse.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin george-tech@george-tech.com.tw
+    DocumentRoot /webmail/httpd/data/george-tech_com_tw/
+    ServerName webmail.george-tech.com.tw
+    ErrorLog logs/george-tech.com.tw-err_log
+    CustomLog logs/george-tech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin power-tech@power-tech.biz
+    DocumentRoot /webmail/httpd/data/power-tech_biz/
+    ServerName webmail.power-tech.biz
+    ErrorLog logs/power-tech.biz-err_log
+    CustomLog logs/power-tech.biz-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin 777@777.com.tw
+    DocumentRoot /webmail/httpd/data/777_com_tw/
+    ServerName webmail.777.com.tw
+    ErrorLog logs/777.com.tw-err_log
+    CustomLog logs/777.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin deeu@deeu.com.tw
+    DocumentRoot /webmail/httpd/data/deeu_com_tw/
+    ServerName webmail.deeu.com.tw
+    ErrorLog logs/deeu.com.tw-err_log
+    CustomLog logs/deeu.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin agis-aweca@agis-aweca.com.tw
+    DocumentRoot /webmail/httpd/data/agis-aweca_com_tw/
+    ServerName webmail.agis-aweca.com.tw
+    ErrorLog logs/agis-aweca.com.tw-err_log
+    CustomLog logs/agis-aweca.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin melodytech@melodytech.com
+    DocumentRoot /webmail/httpd/data/melodytech_com/
+    ServerName webmail.melodytech.com
+    ErrorLog logs/melodytech.com-err_log
+    CustomLog logs/melodytech.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin top-player@top-player.com.tw
+    DocumentRoot /webmail/httpd/data/top-player_com_tw/
+    ServerName webmail.top-player.com.tw
+    ErrorLog logs/top-player.com.tw-err_log
+    CustomLog logs/top-player.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin penku@penku.com.tw
+    DocumentRoot /webmail/httpd/data/penku_com_tw/
+    ServerName webmail.penku.com.tw
+    ErrorLog logs/penku.com.tw-err_log
+    CustomLog logs/penku.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin acceleratedtechnology@acceleratedtechnology.com.tw
+    DocumentRoot /webmail/httpd/data/acceleratedtechnology_com_tw/
+    ServerName webmail.acceleratedtechnology.com.tw
+    ErrorLog logs/acceleratedtechnology.com.tw-err_log
+    CustomLog logs/acceleratedtechnology.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin justherb@justherb.com.tw
+    DocumentRoot /webmail/httpd/data/justherb_com_tw/
+    ServerName webmail.justherb.com.tw
+    ErrorLog logs/justherb.com.tw-err_log
+    CustomLog logs/justherb.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin goodlcd@goodlcd.com.tw
+    DocumentRoot /webmail/httpd/data/goodlcd_com_tw/
+    ServerName webmail.goodlcd.com.tw
+    ErrorLog logs/goodlcd.com.tw-err_log
+    CustomLog logs/goodlcd.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin vietnamairlines@vietnamairlines.com.tw
+    DocumentRoot /webmail/httpd/data/vietnamairlines_com_tw/
+    ServerName webmail.vietnamairlines.com.tw
+    ErrorLog logs/vietnamairlines.com.tw-err_log
+    CustomLog logs/vietnamairlines.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ite-corp@ite-corp.com
+    DocumentRoot /webmail/httpd/data/ite-corp_com/
+    ServerName webmail.ite-corp.com
+    ErrorLog logs/ite-corp.com-err_log
+    CustomLog logs/ite-corp.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin de-consult@de-consult.com.tw
+    DocumentRoot /webmail/httpd/data/de-consult_com_tw/
+    ServerName webmail.de-consult.com.tw
+    ErrorLog logs/de-consult.com.tw-err_log
+    CustomLog logs/de-consult.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ctba@ctba.org.tw
+    DocumentRoot /webmail/httpd/data/ctba_org_tw/
+    ServerName webmail.ctba.org.tw
+    ErrorLog logs/ctba.org.tw-err_log
+    CustomLog logs/ctba.org.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jackiesunny@jackiesunny.com.tw
+    DocumentRoot /webmail/httpd/data/jackiesunny_com_tw/
+    ServerName webmail.jackiesunny.com.tw
+    ErrorLog logs/jackiesunny.com.tw-err_log
+    CustomLog logs/jackiesunny.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin envinex@envinex.com.tw
+    DocumentRoot /webmail/httpd/data/envinex_com_tw/
+    ServerName webmail.envinex.com.tw
+    ErrorLog logs/envinex.com.tw-err_log
+    CustomLog logs/envinex.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin rsam@rsam.com.tw
+    DocumentRoot /webmail/httpd/data/rsam_com_tw/
+    ServerName webmail.rsam.com.tw
+    ErrorLog logs/rsam.com.tw-err_log
+    CustomLog logs/rsam.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hitechs@hitechs.com.tw
+    DocumentRoot /webmail/httpd/data/hitechs_com_tw/
+    ServerName webmail.hitechs.com.tw
+    ErrorLog logs/hitechs.com.tw-err_log
+    CustomLog logs/hitechs.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ztek@ztek.com.tw
+    DocumentRoot /webmail/httpd/data/ztek_com_tw/
+    ServerName webmail.ztek.com.tw
+    ErrorLog logs/ztek.com.tw-err_log
+    CustomLog logs/ztek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ptahdesign@ptahdesign.com.tw
+    DocumentRoot /webmail/httpd/data/ptahdesign_com_tw/
+    ServerName webmail.ptahdesign.com.tw
+    ErrorLog logs/ptahdesign.com.tw-err_log
+    CustomLog logs/ptahdesign.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin genechannel@genechannel.com
+    DocumentRoot /webmail/httpd/data/genechannel_com/
+    ServerName webmail.genechannel.com
+    ErrorLog logs/genechannel.com-err_log
+    CustomLog logs/genechannel.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin kdi@kdi.com.tw
+    DocumentRoot /webmail/httpd/data/kdi_com_tw/
+    ServerName webmail.kdi.com.tw
+    ErrorLog logs/kdi.com.tw-err_log
+    CustomLog logs/kdi.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fabric999-hsh@fabric999-hsh.com
+    DocumentRoot /webmail/httpd/data/fabric999-hsh_com/
+    ServerName webmail.fabric999-hsh.com
+    ErrorLog logs/fabric999-hsh.com-err_log
+    CustomLog logs/fabric999-hsh.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin omniservice@omniservice.com.tw
+    DocumentRoot /webmail/httpd/data/omniservice_com_tw/
+    ServerName webmail.omniservice.com.tw
+    ErrorLog logs/omniservice.com.tw-err_log
+    CustomLog logs/omniservice.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin tronlink@tronlink.com.tw
+    DocumentRoot /webmail/httpd/data/tronlink_com_tw/
+    ServerName webmail.tronlink.com.tw
+    ErrorLog logs/tronlink.com.tw-err_log
+    CustomLog logs/tronlink.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lianyivi@lianyivi.com.tw
+    DocumentRoot /webmail/httpd/data/lianyivi_com_tw/
+    ServerName webmail.lianyivi.com.tw
+    ErrorLog logs/lianyivi.com.tw-err_log
+    CustomLog logs/lianyivi.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin gppc@gppc.com.tw
+    DocumentRoot /webmail/httpd/data/gppc_com_tw/
+    ServerName webmail.gppc.com.tw
+    ErrorLog logs/gppc.com.tw-err_log
+    CustomLog logs/gppc.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin keewah@keewah.com.tw
+    DocumentRoot /webmail/httpd/data/keewah_com_tw/
+    ServerName webmail.keewah.com.tw
+    ErrorLog logs/keewah.com.tw-err_log
+    CustomLog logs/keewah.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lma@lma.com.tw
+    DocumentRoot /webmail/httpd/data/lma_com_tw/
+    ServerName webmail.lma.com.tw
+    ErrorLog logs/lma.com.tw-err_log
+    CustomLog logs/lma.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin shred-et@shred-et.com
+    DocumentRoot /webmail/httpd/data/shred-et_com/
+    ServerName webmail.shred-et.com
+    ErrorLog logs/shred-et.com-err_log
+    CustomLog logs/shred-et.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin winaccord@winaccord.com.tw
+    DocumentRoot /webmail/httpd/data/winaccord_com_tw/
+    ServerName webmail.winaccord.com.tw
+    ErrorLog logs/winaccord.com.tw-err_log
+    CustomLog logs/winaccord.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin diecasting@diecasting.com.tw
+    DocumentRoot /webmail/httpd/data/diecasting_com_tw/
+    ServerName webmail.diecasting.com.tw
+    ErrorLog logs/diecasting.com.tw-err_log
+    CustomLog logs/diecasting.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin focuslight@focuslight.com
+    DocumentRoot /webmail/httpd/data/focuslight_com/
+    ServerName webmail.focuslight.com
+    ErrorLog logs/focuslight.com-err_log
+    CustomLog logs/focuslight.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin e-fss@e-fss.org
+    DocumentRoot /webmail/httpd/data/e-fss_org/
+    ServerName webmail.e-fss.org
+    ErrorLog logs/e-fss.org-err_log
+    CustomLog logs/e-fss.org-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin vang@vang.com.tw
+    DocumentRoot /webmail/httpd/data/vang_com_tw/
+    ServerName webmail.vang.com.tw
+    ErrorLog logs/vang.com.tw-err_log
+    CustomLog logs/vang.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin plusin@plusin.com
+    DocumentRoot /webmail/httpd/data/plusin_com/
+    ServerName webmail.plusin.com
+    ErrorLog logs/plusin.com-err_log
+    CustomLog logs/plusin.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fsk2002@fsk2002.com.tw
+    DocumentRoot /webmail/httpd/data/fsk2002_com_tw/
+    ServerName webmail.fsk2002.com.tw
+    ErrorLog logs/fsk2002.com.tw-err_log
+    CustomLog logs/fsk2002.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jiannder@jiannder.com.tw
+    DocumentRoot /webmail/httpd/data/jiannder_com_tw/
+    ServerName webmail.jiannder.com.tw
+    ErrorLog logs/jiannder.com.tw-err_log
+    CustomLog logs/jiannder.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin relaxt@relaxt.com.tw
+    DocumentRoot /webmail/httpd/data/relaxt_com_tw/
+    ServerName webmail.relaxt.com.tw
+    ErrorLog logs/relaxt.com.tw-err_log
+    CustomLog logs/relaxt.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin zchao@zchao.com.tw
+    DocumentRoot /webmail/httpd/data/zchao_com_tw/
+    ServerName webmail.zchao.com.tw
+    ErrorLog logs/zchao.com.tw-err_log
+    CustomLog logs/zchao.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin catc@catc.com.tw
+    DocumentRoot /webmail/httpd/data/catc_com_tw/
+    ServerName webmail.catc.com.tw
+    ErrorLog logs/catc.com.tw-err_log
+    CustomLog logs/catc.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hydra@hydra.com.tw
+    DocumentRoot /webmail/httpd/data/hydra_com_tw/
+    ServerName webmail.hydra.com.tw
+    ErrorLog logs/hydra.com.tw-err_log
+    CustomLog logs/hydra.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin kuokwang@kuokwang.com.tw
+    DocumentRoot /webmail/httpd/data/kuokwang_com_tw/
+    ServerName webmail.kuokwang.com.tw
+    ErrorLog logs/kuokwang.com.tw-err_log
+    CustomLog logs/kuokwang.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin s-channel@s-channel.com.tw
+    DocumentRoot /webmail/httpd/data/s-channel_com_tw/
+    ServerName webmail.s-channel.com.tw
+    ErrorLog logs/s-channel.com.tw-err_log
+    CustomLog logs/s-channel.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin eastern-unicorn@eastern-unicorn.com
+    DocumentRoot /webmail/httpd/data/eastern-unicorn_com/
+    ServerName webmail.eastern-unicorn.com
+    ErrorLog logs/eastern-unicorn.com-err_log
+    CustomLog logs/eastern-unicorn.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin crowneplaza-taipei@crowneplaza-taipei.com
+    DocumentRoot /webmail/httpd/data/crowneplaza-taipei_com/
+    ServerName webmail.crowneplaza-taipei.com
+    ErrorLog logs/crowneplaza-taipei.com-err_log
+    CustomLog logs/crowneplaza-taipei.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin taiwaninfo@taiwaninfo.com.tw
+    DocumentRoot /webmail/httpd/data/taiwaninfo_com_tw/
+    ServerName webmail.taiwaninfo.com.tw
+    ErrorLog logs/taiwaninfo.com.tw-err_log
+    CustomLog logs/taiwaninfo.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin silversilk@silversilk.com.tw
+    DocumentRoot /webmail/httpd/data/silversilk_com_tw/
+    ServerName webmail.silversilk.com.tw
+    ErrorLog logs/silversilk.com.tw-err_log
+    CustomLog logs/silversilk.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin avacavac@avacavac.com.tw
+    DocumentRoot /webmail/httpd/data/avacavac_com_tw/
+    ServerName webmail.avacavac.com.tw
+    ErrorLog logs/avacavac.com.tw-err_log
+    CustomLog logs/avacavac.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lavita@lavita.com.tw
+    DocumentRoot /webmail/httpd/data/lavita_com_tw/
+    ServerName webmail.lavita.com.tw
+    ErrorLog logs/lavita.com.tw-err_log
+    CustomLog logs/lavita.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin orzmail@orzmail.idv.tw
+    DocumentRoot /webmail/httpd/data/orzmail_idv_tw/
+    ServerName webmail.orzmail.idv.tw
+    ErrorLog logs/orzmail.idv.tw-err_log
+    CustomLog logs/orzmail.idv.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin suntex89@suntex89.com
+    DocumentRoot /webmail/httpd/data/suntex89_com/
+    ServerName webmail.suntex89.com
+    ErrorLog logs/suntex89.com-err_log
+    CustomLog logs/suntex89.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mtrend@mtrend.com.tw
+    DocumentRoot /webmail/httpd/data/mtrend_com_tw/
+    ServerName webmail.mtrend.com.tw
+    ErrorLog logs/mtrend.com.tw-err_log
+    CustomLog logs/mtrend.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin seyen@seyen.com.tw
+    DocumentRoot /webmail/httpd/data/seyen_com_tw/
+    ServerName webmail.seyen.com.tw
+    ErrorLog logs/seyen.com.tw-err_log
+    CustomLog logs/seyen.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin vantectw@vantectw.com
+    DocumentRoot /webmail/httpd/data/vantectw_com/
+    ServerName webmail.vantectw.com
+    ErrorLog logs/vantectw.com-err_log
+    CustomLog logs/vantectw.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin counterpoint@counterpoint.com.tw
+    DocumentRoot /webmail/httpd/data/counterpoint_com_tw/
+    ServerName webmail.counterpoint.com.tw
+    ErrorLog logs/counterpoint.com.tw-err_log
+    CustomLog logs/counterpoint.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin tronstar@tronstar.com.tw
+    DocumentRoot /webmail/httpd/data/tronstar_com_tw/
+    ServerName webmail.tronstar.com.tw
+    ErrorLog logs/tronstar.com.tw-err_log
+    CustomLog logs/tronstar.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin neostones@neostones.com.tw
+    DocumentRoot /webmail/httpd/data/neostones_com_tw/
+    ServerName webmail.neostones.com.tw
+    ErrorLog logs/neostones.com.tw-err_log
+    CustomLog logs/neostones.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin wcorp@wcorp.net
+    DocumentRoot /webmail/httpd/data/wcorp_net/
+    ServerName webmail.wcorp.net
+    ErrorLog logs/wcorp.net-err_log
+    CustomLog logs/wcorp.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin samson-metal@samson-metal.com.tw
+    DocumentRoot /webmail/httpd/data/samson-metal_com_tw/
+    ServerName webmail.samson-metal.com.tw
+    ErrorLog logs/samson-metal.com.tw-err_log
+    CustomLog logs/samson-metal.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin wensong@wensong.com.tw
+    DocumentRoot /webmail/httpd/data/wensong_com_tw/
+    ServerName webmail.wensong.com.tw
+    ErrorLog logs/wensong.com.tw-err_log
+    CustomLog logs/wensong.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fapro@fapro.com.tw
+    DocumentRoot /webmail/httpd/data/fapro_com_tw/
+    ServerName webmail.fapro.com.tw
+    ErrorLog logs/fapro.com.tw-err_log
+    CustomLog logs/fapro.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin bbqtp@bbqtp.com.tw
+    DocumentRoot /webmail/httpd/data/bbqtp_com_tw/
+    ServerName webmail.bbqtp.com.tw
+    ErrorLog logs/bbqtp.com.tw-err_log
+    CustomLog logs/bbqtp.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lhccpa@lhccpa.com.tw
+    DocumentRoot /webmail/httpd/data/lhccpa_com_tw/
+    ServerName webmail.lhccpa.com.tw
+    ErrorLog logs/lhccpa.com.tw-err_log
+    CustomLog logs/lhccpa.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ri-pro@ri-pro.com
+    DocumentRoot /webmail/httpd/data/ri-pro_com/
+    ServerName webmail.ri-pro.com
+    ErrorLog logs/ri-pro.com-err_log
+    CustomLog logs/ri-pro.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jsicom@jsicom.com.tw
+    DocumentRoot /webmail/httpd/data/jsicom_com_tw/
+    ServerName webmail.jsicom.com.tw
+    ErrorLog logs/jsicom.com.tw-err_log
+    CustomLog logs/jsicom.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sonostar@sonostar.com
+    DocumentRoot /webmail/httpd/data/sonostar_com/
+    ServerName webmail.sonostar.com
+    ErrorLog logs/sonostar.com-err_log
+    CustomLog logs/sonostar.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin winstream@winstream.com.tw
+    DocumentRoot /webmail/httpd/data/winstream_com_tw/
+    ServerName webmail.winstream.com.tw
+    ErrorLog logs/winstream.com.tw-err_log
+    CustomLog logs/winstream.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin carmen@carmen.com.tw
+    DocumentRoot /webmail/httpd/data/carmen_com_tw/
+    ServerName webmail.carmen.com.tw
+    ErrorLog logs/carmen.com.tw-err_log
+    CustomLog logs/carmen.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin behonest@behonest.com.tw
+    DocumentRoot /webmail/httpd/data/behonest_com_tw/
+    ServerName webmail.behonest.com.tw
+    ErrorLog logs/behonest.com.tw-err_log
+    CustomLog logs/behonest.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin emman@emman.com.tw
+    DocumentRoot /webmail/httpd/data/emman_com_tw/
+    ServerName webmail.emman.com.tw
+    ErrorLog logs/emman.com.tw-err_log
+    CustomLog logs/emman.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jtonsys@jtonsys.com
+    DocumentRoot /webmail/httpd/data/jtonsys_com/
+    ServerName webmail.jtonsys.com
+    ErrorLog logs/jtonsys.com-err_log
+    CustomLog logs/jtonsys.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin alphamoon@alphamoon.com.tw
+    DocumentRoot /webmail/httpd/data/alphamoon_com_tw/
+    ServerName webmail.alphamoon.com.tw
+    ErrorLog logs/alphamoon.com.tw-err_log
+    CustomLog logs/alphamoon.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hellodisc@hellodisc.com.tw
+    DocumentRoot /webmail/httpd/data/hellodisc_com_tw/
+    ServerName webmail.hellodisc.com.tw
+    ErrorLog logs/hellodisc.com.tw-err_log
+    CustomLog logs/hellodisc.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ferrite@ferrite.com.tw
+    DocumentRoot /webmail/httpd/data/ferrite_com_tw/
+    ServerName webmail.ferrite.com.tw
+    ErrorLog logs/ferrite.com.tw-err_log
+    CustomLog logs/ferrite.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ichu@ichu.com.tw
+    DocumentRoot /webmail/httpd/data/ichu_com_tw/
+    ServerName webmail.ichu.com.tw
+    ErrorLog logs/ichu.com.tw-err_log
+    CustomLog logs/ichu.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin soezco@soezco.com.tw
+    DocumentRoot /webmail/httpd/data/soezco_com_tw/
+    ServerName webmail.soezco.com.tw
+    ErrorLog logs/soezco.com.tw-err_log
+    CustomLog logs/soezco.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin dorm@dorm.com.tw
+    DocumentRoot /webmail/httpd/data/dorm_com_tw/
+    ServerName webmail.dorm.com.tw
+    ErrorLog logs/dorm.com.tw-err_log
+    CustomLog logs/dorm.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin yichia@yichia.com.tw
+    DocumentRoot /webmail/httpd/data/yichia_com_tw/
+    ServerName webmail.yichia.com.tw
+    ErrorLog logs/yichia.com.tw-err_log
+    CustomLog logs/yichia.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin aishih@aishih.com.tw
+    DocumentRoot /webmail/httpd/data/aishih_com_tw/
+    ServerName webmail.aishih.com.tw
+    ErrorLog logs/aishih.com.tw-err_log
+    CustomLog logs/aishih.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin winshen@winshen.com.tw
+    DocumentRoot /webmail/httpd/data/winshen_com_tw/
+    ServerName webmail.winshen.com.tw
+    ErrorLog logs/winshen.com.tw-err_log
+    CustomLog logs/winshen.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fatec@fatec.com.tw
+    DocumentRoot /webmail/httpd/data/fatec_com_tw/
+    ServerName webmail.fatec.com.tw
+    ErrorLog logs/fatec.com.tw-err_log
+    CustomLog logs/fatec.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin tld@tld.com.tw
+    DocumentRoot /webmail/httpd/data/tld_com_tw/
+    ServerName webmail.tld.com.tw
+    ErrorLog logs/tld.com.tw-err_log
+    CustomLog logs/tld.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hotpops@hotpops.com.tw
+    DocumentRoot /webmail/httpd/data/hotpops_com_tw/
+    ServerName webmail.hotpops.com.tw
+    ErrorLog logs/hotpops.com.tw-err_log
+    CustomLog logs/hotpops.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin glorytech@glorytech.net
+    DocumentRoot /webmail/httpd/data/glorytech_net/
+    ServerName webmail.glorytech.net
+    ErrorLog logs/glorytech.net-err_log
+    CustomLog logs/glorytech.net-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cashmere@cashmere.com.tw
+    DocumentRoot /webmail/httpd/data/cashmere_com_tw/
+    ServerName webmail.cashmere.com.tw
+    ErrorLog logs/cashmere.com.tw-err_log
+    CustomLog logs/cashmere.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ape@ape.net.tw
+    DocumentRoot /webmail/httpd/data/ape_net_tw/
+    ServerName webmail.ape.net.tw
+    ErrorLog logs/ape.net.tw-err_log
+    CustomLog logs/ape.net.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin yan-kuan@yan-kuan.com.tw
+    DocumentRoot /webmail/httpd/data/yan-kuan_com_tw/
+    ServerName webmail.yan-kuan.com.tw
+    ErrorLog logs/yan-kuan.com.tw-err_log
+    CustomLog logs/yan-kuan.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin expense-reduction@expense-reduction.com.tw
+    DocumentRoot /webmail/httpd/data/expense-reduction_com_tw/
+    ServerName webmail.expense-reduction.com.tw
+    ErrorLog logs/expense-reduction.com.tw-err_log
+    CustomLog logs/expense-reduction.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin era-tw@era-tw.com
+    DocumentRoot /webmail/httpd/data/era-tw_com/
+    ServerName webmail.era-tw.com
+    ErrorLog logs/era-tw.com-err_log
+    CustomLog logs/era-tw.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin advancedcapital@advancedcapital.com.tw
+    DocumentRoot /webmail/httpd/data/advancedcapital_com_tw/
+    ServerName webmail.advancedcapital.com.tw
+    ErrorLog logs/advancedcapital.com.tw-err_log
+    CustomLog logs/advancedcapital.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin eupl@eupl.com.tw
+    DocumentRoot /webmail/httpd/data/eupl_com_tw/
+    ServerName webmail.eupl.com.tw
+    ErrorLog logs/eupl.com.tw-err_log
+    CustomLog logs/eupl.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin apbw@apbw.com
+    DocumentRoot /webmail/httpd/data/apbw_com/
+    ServerName webmail.apbw.com
+    ErrorLog logs/apbw.com-err_log
+    CustomLog logs/apbw.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin galaxylighting@galaxylighting.com.tw
+    DocumentRoot /webmail/httpd/data/galaxylighting_com_tw/
+    ServerName webmail.galaxylighting.com.tw
+    ErrorLog logs/galaxylighting.com.tw-err_log
+    CustomLog logs/galaxylighting.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin northtech@northtech.com.tw
+    DocumentRoot /webmail/httpd/data/northtech_com_tw/
+    ServerName webmail.northtech.com.tw
+    ErrorLog logs/northtech.com.tw-err_log
+    CustomLog logs/northtech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin elemtek@elemtek.com.tw
+    DocumentRoot /webmail/httpd/data/elemtek_com_tw/
+    ServerName webmail.elemtek.com.tw
+    ErrorLog logs/elemtek.com.tw-err_log
+    CustomLog logs/elemtek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin etake@etake.com.tw
+    DocumentRoot /webmail/httpd/data/etake_com_tw/
+    ServerName webmail.etake.com.tw
+    ErrorLog logs/etake.com.tw-err_log
+    CustomLog logs/etake.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin ifmode@ifmode.com
+    DocumentRoot /webmail/httpd/data/ifmode_com/
+    ServerName webmail.ifmode.com
+    ErrorLog logs/ifmode.com-err_log
+    CustomLog logs/ifmode.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin livingpro@livingpro.com.tw
+    DocumentRoot /webmail/httpd/data/livingpro_com_tw/
+    ServerName webmail.livingpro.com.tw
+    ErrorLog logs/livingpro.com.tw-err_log
+    CustomLog logs/livingpro.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sunwayfood@sunwayfood.com.tw
+    DocumentRoot /webmail/httpd/data/sunwayfood_com_tw/
+    ServerName webmail.sunwayfood.com.tw
+    ErrorLog logs/sunwayfood.com.tw-err_log
+    CustomLog logs/sunwayfood.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin minwe@minwe.com.tw
+    DocumentRoot /webmail/httpd/data/minwe_com_tw/
+    ServerName webmail.minwe.com.tw
+    ErrorLog logs/minwe.com.tw-err_log
+    CustomLog logs/minwe.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin powerflow@powerflow.com.tw
+    DocumentRoot /webmail/httpd/data/powerflow_com_tw/
+    ServerName webmail.powerflow.com.tw
+    ErrorLog logs/powerflow.com.tw-err_log
+    CustomLog logs/powerflow.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin eid@eid.com.tw
+    DocumentRoot /webmail/httpd/data/eid_com_tw/
+    ServerName webmail.eid.com.tw
+    ErrorLog logs/eid.com.tw-err_log
+    CustomLog logs/eid.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin shinkin@shinkin.com.tw
+    DocumentRoot /webmail/httpd/data/shinkin_com_tw/
+    ServerName webmail.shinkin.com.tw
+    ErrorLog logs/shinkin.com.tw-err_log
+    CustomLog logs/shinkin.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin fda2003@fda2003.com
+    DocumentRoot /webmail/httpd/data/fda2003_com/
+    ServerName webmail.fda2003.com
+    ErrorLog logs/fda2003.com-err_log
+    CustomLog logs/fda2003.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin steptek@steptek.com.tw
+    DocumentRoot /webmail/httpd/data/steptek_com_tw/
+    ServerName webmail.steptek.com.tw
+    ErrorLog logs/steptek.com.tw-err_log
+    CustomLog logs/steptek.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin hpctaiwan@hpctaiwan.com
+    DocumentRoot /webmail/httpd/data/hpctaiwan_com/
+    ServerName webmail.hpctaiwan.com
+    ErrorLog logs/hpctaiwan.com-err_log
+    CustomLog logs/hpctaiwan.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin collinselco@collinselco.com
+    DocumentRoot /webmail/httpd/data/collinselco_com/
+    ServerName webmail.collinselco.com
+    ErrorLog logs/collinselco.com-err_log
+    CustomLog logs/collinselco.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin flyking@flyking.com.tw
+    DocumentRoot /webmail/httpd/data/flyking_com_tw/
+    ServerName webmail.flyking.com.tw
+    ErrorLog logs/flyking.com.tw-err_log
+    CustomLog logs/flyking.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin burkle@burkle.com.tw
+    DocumentRoot /webmail/httpd/data/burkle_com_tw/
+    ServerName webmail.burkle.com.tw
+    ErrorLog logs/burkle.com.tw-err_log
+    CustomLog logs/burkle.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin greenmagic@greenmagic.com.tw
+    DocumentRoot /webmail/httpd/data/greenmagic_com_tw/
+    ServerName webmail.greenmagic.com.tw
+    ErrorLog logs/greenmagic.com.tw-err_log
+    CustomLog logs/greenmagic.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin magtekcontrol@magtekcontrol.com.tw
+    DocumentRoot /webmail/httpd/data/magtekcontrol_com_tw/
+    ServerName webmail.magtekcontrol.com.tw
+    ErrorLog logs/magtekcontrol.com.tw-err_log
+    CustomLog logs/magtekcontrol.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin winstron@winstron.com
+    DocumentRoot /webmail/httpd/data/winstron_com/
+    ServerName webmail.winstron.com
+    ErrorLog logs/winstron.com-err_log
+    CustomLog logs/winstron.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin solacorp@solacorp.com
+    DocumentRoot /webmail/httpd/data/solacorp_com/
+    ServerName webmail.solacorp.com
+    ErrorLog logs/solacorp.com-err_log
+    CustomLog logs/solacorp.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin iavx@iavx.com.tw
+    DocumentRoot /webmail/httpd/data/iavx_com_tw/
+    ServerName webmail.iavx.com.tw
+    ErrorLog logs/iavx.com.tw-err_log
+    CustomLog logs/iavx.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin neomed@neomed.com.tw
+    DocumentRoot /webmail/httpd/data/neomed_com_tw/
+    ServerName webmail.neomed.com.tw
+    ErrorLog logs/neomed.com.tw-err_log
+    CustomLog logs/neomed.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin worldwise@worldwise.com.tw
+    DocumentRoot /webmail/httpd/data/worldwise_com_tw/
+    ServerName webmail.worldwise.com.tw
+    ErrorLog logs/worldwise.com.tw-err_log
+    CustomLog logs/worldwise.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin sunprogroup@sunprogroup.com.tw
+    DocumentRoot /webmail/httpd/data/sunprogroup_com_tw/
+    ServerName webmail.sunprogroup.com.tw
+    ErrorLog logs/sunprogroup.com.tw-err_log
+    CustomLog logs/sunprogroup.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin auslinx@auslinx.com.tw
+    DocumentRoot /webmail/httpd/data/auslinx_com_tw/
+    ServerName webmail.auslinx.com.tw
+    ErrorLog logs/auslinx.com.tw-err_log
+    CustomLog logs/auslinx.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin well@well.com.tw
+    DocumentRoot /webmail/httpd/data/well_com_tw/
+    ServerName webmail.well.com.tw
+    ErrorLog logs/well.com.tw-err_log
+    CustomLog logs/well.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin skedu@skedu.com.tw
+    DocumentRoot /webmail/httpd/data/skedu_com_tw/
+    ServerName webmail.skedu.com.tw
+    ErrorLog logs/skedu.com.tw-err_log
+    CustomLog logs/skedu.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin seponline@seponline.com.tw
+    DocumentRoot /webmail/httpd/data/seponline_com_tw/
+    ServerName webmail.seponline.com.tw
+    ErrorLog logs/seponline.com.tw-err_log
+    CustomLog logs/seponline.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin digi-king@digi-king.com.tw
+    DocumentRoot /webmail/httpd/data/digi-king_com_tw/
+    ServerName webmail.digi-king.com.tw
+    ErrorLog logs/digi-king.com.tw-err_log
+    CustomLog logs/digi-king.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin nytaps@nytaps.com.tw
+    DocumentRoot /webmail/httpd/data/nytaps_com_tw/
+    ServerName webmail.nytaps.com.tw
+    ErrorLog logs/nytaps.com.tw-err_log
+    CustomLog logs/nytaps.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin newcd@newcd.com.tw
+    DocumentRoot /webmail/httpd/data/newcd_com_tw/
+    ServerName webmail.newcd.com.tw
+    ErrorLog logs/newcd.com.tw-err_log
+    CustomLog logs/newcd.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin jiuhshin@jiuhshin.com
+    DocumentRoot /webmail/httpd/data/jiuhshin_com/
+    ServerName webmail.jiuhshin.com
+    ErrorLog logs/jiuhshin.com-err_log
+    CustomLog logs/jiuhshin.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lobos@lobos.com.tw
+    DocumentRoot /webmail/httpd/data/lobos_com_tw/
+    ServerName webmail.lobos.com.tw
+    ErrorLog logs/lobos.com.tw-err_log
+    CustomLog logs/lobos.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin victorylink@victorylink.com.tw
+    DocumentRoot /webmail/httpd/data/victorylink_com_tw/
+    ServerName webmail.victorylink.com.tw
+    ErrorLog logs/victorylink.com.tw-err_log
+    CustomLog logs/victorylink.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin archinexus@archinexus.com
+    DocumentRoot /webmail/httpd/data/archinexus_com/
+    ServerName webmail.archinexus.com
+    ErrorLog logs/archinexus.com-err_log
+    CustomLog logs/archinexus.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin worldtech@worldtech.com.tw
+    DocumentRoot /webmail/httpd/data/worldtech_com_tw/
+    ServerName webmail.worldtech.com.tw
+    ErrorLog logs/worldtech.com.tw-err_log
+    CustomLog logs/worldtech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin lumbini@lumbini.com.tw
+    DocumentRoot /webmail/httpd/data/lumbini_com_tw/
+    ServerName webmail.lumbini.com.tw
+    ErrorLog logs/lumbini.com.tw-err_log
+    CustomLog logs/lumbini.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin qman@qman.com.tw
+    DocumentRoot /webmail/httpd/data/qman_com_tw/
+    ServerName webmail.qman.com.tw
+    ErrorLog logs/qman.com.tw-err_log
+    CustomLog logs/qman.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin mega-force@mega-force.com.tw
+    DocumentRoot /webmail/httpd/data/mega-force_com_tw/
+    ServerName webmail.mega-force.com.tw
+    ErrorLog logs/mega-force.com.tw-err_log
+    CustomLog logs/mega-force.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin shine-tech@shine-tech.com.tw
+    DocumentRoot /webmail/httpd/data/shine-tech_com_tw/
+    ServerName webmail.shine-tech.com.tw
+    ErrorLog logs/shine-tech.com.tw-err_log
+    CustomLog logs/shine-tech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin airblue@airblue.com.tw
+    DocumentRoot /webmail/httpd/data/airblue_com_tw/
+    ServerName webmail.airblue.com.tw
+    ErrorLog logs/airblue.com.tw-err_log
+    CustomLog logs/airblue.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin cenracing@cenracing.com.tw
+    DocumentRoot /webmail/httpd/data/cenracing_com_tw/
+    ServerName webmail.cenracing.com.tw
+    ErrorLog logs/cenracing.com.tw-err_log
+    CustomLog logs/cenracing.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin digihomewin@digihomewin.com.tw
+    DocumentRoot /webmail/httpd/data/digihomewin_com_tw/
+    ServerName webmail.digihomewin.com.tw
+    ErrorLog logs/digihomewin.com.tw-err_log
+    CustomLog logs/digihomewin.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin trinusys@trinusys.com
+    DocumentRoot /webmail/httpd/data/trinusys_com/
+    ServerName webmail.trinusys.com
+    ErrorLog logs/trinusys.com-err_log
+    CustomLog logs/trinusys.com-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin p-johnson@p-johnson.com.tw
+    DocumentRoot /webmail/httpd/data/p-johnson_com_tw/
+    ServerName webmail.p-johnson.com.tw
+    ErrorLog logs/p-johnson.com.tw-err_log
+    CustomLog logs/p-johnson.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin wking@wking.com.tw
+    DocumentRoot /webmail/httpd/data/wking_com_tw/
+    ServerName webmail.wking.com.tw
+    ErrorLog logs/wking.com.tw-err_log
+    CustomLog logs/wking.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin rstech@rstech.com.tw
+    DocumentRoot /webmail/httpd/data/rstech_com_tw/
+    ServerName webmail.rstech.com.tw
+    ErrorLog logs/rstech.com.tw-err_log
+    CustomLog logs/rstech.com.tw-access_log common
+</VirtualHost>
+
+<VirtualHost 203.79.224.1>
+    ServerAdmin polarisbook@polarisbook.com
+    DocumentRoot /webmail/httpd/data/polarisbook_com/
+    ServerName webmail.polarisbook.com
+    ErrorLog logs/polarisbook.com-err_log
+    CustomLog logs/polarisbook.com-access_log common
+</VirtualHost>

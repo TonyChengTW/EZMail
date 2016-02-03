@@ -1,0 +1,18 @@
+host m2k-1.aptg.net
+ip 203.79.224.1
+uptime 11:40AM  up 350 days
+cpu 15 28
+disk_/ 100 1032 11%
+disk_/home 102 4129 3%
+disk_/usr 1105 2064 58%
+disk_/var 46 2064 2%
+disk_/webmail 1935 7168 29%
+disk_/proc 0 0 100%
+disk_/webmail/m2kwork 80598 305052 26%
+mailerd_smtpd 56 32
+pop3d_imap4d 4 1
+httpd 120
+res_run_queue 0 8
+buggy_spam_queue 7 32587
+retry_wait_queue 0 1
+init_queue 0 0
